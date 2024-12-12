@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: xho4bk3lj-java-quarkus-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/xho4bk3lj-java-quarkus
